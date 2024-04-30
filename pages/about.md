@@ -26,5 +26,3 @@ This collection of natural souvenirs features objects that I have collected over
 Throughout the years I have always enjoyed finding beauty in the small things, and these small things are often pieces of nature. Often when visiting a new place I will pick up a small souvenir and I find myself loving the memories they remind me of.
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-{% include cb/about_the_about.md %} 

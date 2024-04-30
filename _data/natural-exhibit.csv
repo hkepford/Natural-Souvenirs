@@ -1,4 +1,4 @@
-objectid,title,subject,location,nationality,type,description,coverage,date,filename,size,creator,rights,identifier
+objectid,title,subject,location,nationality,type,description,date,date,filename,size,creator,rights,identifier
 obj_001,Preserved Bay Laurel Leaf,Laurus nobilis,"Venetian Lagoon, Northern Italy",Lido di Venezia,jpg,Large brown leaf featuring a shiny finish and small spots,2023,2024,bayleaf.jpg,835 KB,"Kepford, Hannah",Hannah Kepford,OBJ001-BayLaurel-Venice-Lido
 obj_002,Small Smooth Rock,Rocks,"Boundary Waters Canoe Area Wilderness, Northern Minnesota",,jpg,Small smooth brown stone with a red hue,2023,2024,boundarywaters.jpg,543 KB,"Kepford, Hannah",Hannah Kepford,OBJ002-Rock-BWCA-MN
 obj_003,Barnacle Rock,Rocks,"Birch Bay, Washington",,jpg,Small jagged rock featuring three barnacles,2020,2024,barnacle.jpg,1.2 MB,"Kepford, Hannah",Hannah Kepford,OBJ003-BarnacleRock-BirchBay-WA

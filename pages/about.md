@@ -14,14 +14,17 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+This collection of natural souvenirs features objects that I have collected over the years, with locations spanning from Iowa to Italy. You will find:
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+- Interesting rocks
+- Shells
+- Pine cones
+- And so much more!
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+##Collection History
+
+Throughout the years I have always enjoyed finding beauty in the small things, and these small things are often pieces of nature. Often when visiting a new place I will pick up a small souvenir and I find myself loving the memories they remind me of.
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 

@@ -12,7 +12,7 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
-## About the Collection
+About the Collection
 
 This collection of natural souvenirs features objects that I have collected over the years, with locations spanning from Iowa to Italy. You will find:
 
